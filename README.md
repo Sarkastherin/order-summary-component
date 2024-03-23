@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository](https://github.com/Sarkastherin/nft-preview-card-component.git)
-- Live Site URL: [Live demo](https://sarkastherin.github.io/nft-preview-card-component/)
+- Solution URL: [Repository](https://github.com/Sarkastherin/order-summary-component.git)
+- Live Site URL: [Live demo](https://sarkastherin.github.io/order-summary-component/)
 
 ## Author
 - Frontend Mentor - [@Sarkastherin](https://www.frontendmentor.io/profile/Sarkastherin)
